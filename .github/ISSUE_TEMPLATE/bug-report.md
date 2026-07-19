@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report an error, defect, or inconsistency in this repository.
 title: ''
-labels: bug
+labels: bug, governance
 assignees: ''
 
 ---
