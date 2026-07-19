@@ -2,7 +2,7 @@
 name: Documentation Improvement
 about: Suggest improvements, corrections, or additions to the documentation.
 title: ''
-labels: documentation
+labels: documentation, governance
 assignees: ''
 
 ---
