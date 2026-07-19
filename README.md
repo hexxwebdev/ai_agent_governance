@@ -1,8 +1,10 @@
 # AI Agent Governance
 
-A vendor-neutral governance framework and documentation structure for AI-assisted software development.
+A vendor-neutral governance framework and documentation structure for **AI coding agents**.
 
-This project provides reusable engineering standards and a recommended repository organization that help AI agents and software developers build secure, maintainable, and well-documented software.
+Unlike enterprise AI governance platforms that focus on organizational policies, compliance, and human oversight, this project defines the operational standards that AI agents follow while analyzing, modifying, testing, documenting, and deploying software.
+
+It provides reusable engineering standards and a recommended repository organization that help AI coding agents and software developers build secure, maintainable, and well-documented software.
 
 ---
 
