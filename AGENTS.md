@@ -28,6 +28,21 @@ Do not duplicate governance content elsewhere unless a project-specific exceptio
 
 ---
 
+## AI Agent Runtime Governance
+
+The `/knowledge/governance/agents` folder contains runtime governance standards for AI agents.
+
+These documents define how AI agents should operate within a project, including execution boundaries, permissions, approval requirements, security guardrails, and other runtime expectations.
+
+AI agents should review both:
+
+1. The engineering standards in `/knowledge/governance`.
+2. The runtime governance documents in `/knowledge/governance/agents`.
+
+The runtime governance documents complement the engineering standards by defining how agents should behave while performing work, rather than how software should be designed or implemented.
+
+---
+
 # Project-Specific Standards
 
 This section is intentionally reserved for repository-specific instructions that extend or customize the AI Agent Governance Library.
