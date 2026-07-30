@@ -113,4 +113,5 @@ The `agents` folder contains runtime governance standards for AI agents.
 These documents define how AI agents should operate while performing work, including permissions, execution boundaries, approval requirements, and security guardrails.
 
 Together with the engineering standards in this folder, they provide a complete governance framework for AI-assisted software development.
+
 ---

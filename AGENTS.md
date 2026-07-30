@@ -66,9 +66,9 @@ Unless explicitly instructed otherwise:
 
 ---
 
-# Local Validation
+# Non-Production Validation
 
-Projects should be validated locally unless explicitly instructed otherwise.
+Projects should be validated in a non-production environment unless explicitly instructed otherwise.
 
 Validation should be appropriate for the technology being modified and may include:
 
@@ -80,8 +80,7 @@ Validation should be appropriate for the technology being modified and may inclu
 - Database validation where applicable
 - End-to-end workflow validation when practical
 
-Do not consider a task complete until the requested functionality has been locally validated or any validation limitations have been clearly documented.
-
+Do not consider a task complete until the requested functionality has been validated in a non-production environment or any validation limitations have been clearly documented.
 ---
 
 # Non-Interactive Editing

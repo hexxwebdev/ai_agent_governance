@@ -109,6 +109,14 @@ my-project/
 
 ---
 
+## Versioning
+
+This project follows Semantic Versioning (SemVer).
+
+Project history is tracked through Git commits and version tags. A separate `CHANGELOG.md` is intentionally not maintained.
+
+---
+
 # License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
